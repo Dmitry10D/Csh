@@ -1,0 +1,7 @@
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Get Full Name\bin\Debug\Get Full Name.exe.config
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Get Full Name\bin\Debug\Get Full Name.exe
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Get Full Name\bin\Debug\Get Full Name.pdb
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Get Full Name\obj\Debug\Get Full Name.csprojAssemblyReference.cache
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Get Full Name\obj\Debug\Get Full Name.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Get Full Name\obj\Debug\Get Full Name.exe
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Get Full Name\obj\Debug\Get Full Name.pdb

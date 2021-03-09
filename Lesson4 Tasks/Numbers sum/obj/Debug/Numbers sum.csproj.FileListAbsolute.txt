@@ -1,0 +1,7 @@
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Numbers sum\bin\Debug\Numbers sum.exe.config
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Numbers sum\bin\Debug\Numbers sum.exe
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Numbers sum\bin\Debug\Numbers sum.pdb
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Numbers sum\obj\Debug\Numbers sum.csprojAssemblyReference.cache
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Numbers sum\obj\Debug\Numbers sum.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Numbers sum\obj\Debug\Numbers sum.exe
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Numbers sum\obj\Debug\Numbers sum.pdb

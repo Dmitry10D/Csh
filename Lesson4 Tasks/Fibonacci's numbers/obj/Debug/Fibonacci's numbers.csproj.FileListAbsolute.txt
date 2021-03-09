@@ -1,0 +1,7 @@
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Fibonacci's numbers\bin\Debug\Fibonacci's numbers.exe.config
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Fibonacci's numbers\bin\Debug\Fibonacci's numbers.exe
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Fibonacci's numbers\bin\Debug\Fibonacci's numbers.pdb
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Fibonacci's numbers\obj\Debug\Fibonacci's numbers.csprojAssemblyReference.cache
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Fibonacci's numbers\obj\Debug\Fibonacci's numbers.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Fibonacci's numbers\obj\Debug\Fibonacci's numbers.exe
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Fibonacci's numbers\obj\Debug\Fibonacci's numbers.pdb

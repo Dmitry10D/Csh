@@ -1,0 +1,7 @@
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Months\bin\Debug\Months.exe.config
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Months\bin\Debug\Months.exe
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Months\bin\Debug\Months.pdb
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Months\obj\Debug\Months.csprojAssemblyReference.cache
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Months\obj\Debug\Months.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Months\obj\Debug\Months.exe
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Months\obj\Debug\Months.pdb
