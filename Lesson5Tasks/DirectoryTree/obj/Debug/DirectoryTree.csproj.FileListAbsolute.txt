@@ -1,0 +1,7 @@
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\DirectoryTree\bin\Debug\DirectoryTree.exe.config
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\DirectoryTree\bin\Debug\DirectoryTree.exe
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\DirectoryTree\bin\Debug\DirectoryTree.pdb
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\DirectoryTree\obj\Debug\DirectoryTree.csprojAssemblyReference.cache
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\DirectoryTree\obj\Debug\DirectoryTree.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\DirectoryTree\obj\Debug\DirectoryTree.exe
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\DirectoryTree\obj\Debug\DirectoryTree.pdb

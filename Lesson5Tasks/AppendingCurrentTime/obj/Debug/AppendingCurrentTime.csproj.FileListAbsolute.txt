@@ -1,0 +1,7 @@
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\AppendingCurrentTime\bin\Debug\AppendingCurrentTime.exe.config
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\AppendingCurrentTime\bin\Debug\AppendingCurrentTime.exe
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\AppendingCurrentTime\bin\Debug\AppendingCurrentTime.pdb
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\AppendingCurrentTime\obj\Debug\AppendingCurrentTime.csprojAssemblyReference.cache
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\AppendingCurrentTime\obj\Debug\AppendingCurrentTime.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\AppendingCurrentTime\obj\Debug\AppendingCurrentTime.exe
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\AppendingCurrentTime\obj\Debug\AppendingCurrentTime.pdb

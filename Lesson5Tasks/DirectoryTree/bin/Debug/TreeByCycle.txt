@@ -1,0 +1,812 @@
+C:\Users\Desyatov_D\source\repos
+C:\Users\Desyatov_D\source\repos\ConsoleApp1
+C:\Users\Desyatov_D\source\repos\ConsoleApp2
+C:\Users\Desyatov_D\source\repos\ConsoleApp3
+C:\Users\Desyatov_D\source\repos\Contacts
+C:\Users\Desyatov_D\source\repos\Contacts1
+C:\Users\Desyatov_D\source\repos\Dmitry10D
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.gitattributes
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.gitignore
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.vs
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\ConsoleApp1
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\ConsoleApp1.sln
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task2
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task3
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task4
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task5
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\COMMIT_EDITMSG
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\config
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\description
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\HEAD
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\hooks
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\index
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\info
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\logs
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\ms-persist.xml
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\refs
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\hooks\applypatch-msg.sample
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\hooks\commit-msg.sample
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\hooks\fsmonitor-watchman.sample
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\hooks\post-update.sample
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\hooks\pre-applypatch.sample
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\hooks\pre-commit.sample
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\hooks\pre-merge-commit.sample
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\hooks\pre-push.sample
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\hooks\pre-rebase.sample
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\hooks\pre-receive.sample
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\hooks\prepare-commit-msg.sample
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\hooks\update.sample
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\info\exclude
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\logs\HEAD
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\logs\refs
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\logs\refs\heads
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\logs\refs\heads\master
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\04
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\08
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\0a
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\14
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\15
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\1b
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\1f
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\25
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\38
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\49
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\4c
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\56
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\57
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\5c
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\62
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\6d
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\76
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\81
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\82
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\8b
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\99
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\a4
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\a9
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\b9
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\ba
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\c0
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\dc
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\ee
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\f9
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\fe
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\info
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\pack
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\04\140bd47765774eb0fb190e6a040b05c2e2556c
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\08\e002cd6d08e91e3f7585c4c47ff76618f9900a
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\0a\77aa1581f62a497b06f777b44afa4cd993926c
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\14\5a59a3f7789d9bc48a7cdcee7f059cc0107135
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\15\2b1bae4d7dc9ab0dc31e5dc493779feda97a9d
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\1b\8f13e329f91afe110256d55f832efc020e9219
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\1f\f0c423042b46cb1d617b81efb715defbe8054d
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\25\df99191a5140d8479a3f0d2aa8e0b0e4d747f1
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\38\6fe57d12aa313155061e997436dd4a1bf17ef1
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\49\dc0d526154565729c330c5aca2fc68dc93ecab
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\4c\e6fddec962ff3b86038d9939b6be5dfc1e6351
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\56\efbc7b5f15b5166cc89dae0406895b57de0b67
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\57\15fc7ac6a27745b135001d38ce0c4c5534bd02
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\5c\999a8b8fc9b6879d0e03e3b2cfc0ec40d23338
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\62\405727823918cfe7e2b7b01111391515fc9643
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\6d\2f139c44bb2a0285eb9a46ef207b5c4009686f
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\76\c2f9f8bf4aa70eee180c2407b2150c1e3e19af
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\81\d8a6b194143e7d7ab1076cf978a18604257541
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\82\8a41f47d8e4e30ae822d1e147d87f99e6fb6af
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\8b\60838835ecd7c3584ca8698bac0bcfd2361838
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\99\fd163fb485d5ed66c9b80845c42c5bae963f54
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\a4\2282aaa08292be2afc75c3e7156041d7616cf3
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\a9\3c3bbe8b405bd03244bd2f181b29fd27074111
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\a9\486beead354bc968c9c06e85ecfda63ee246b3
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\b9\b85c370ebe0ead1a437a2c22684ec56af6226c
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\ba\ee31ac35d75d039295fc7433f22a493ea4b5b6
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\c0\be961f74814df6711aa96e6cace3d95306c375
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\dc\d03f50b4adfe6953a3a55c54cbeebefaf848a4
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\ee\e8b5c5300824547feb13a80ee52ca96fe999f5
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\f9\297614ac71238ce20f1abae5eaf042b903e184
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\fe\412c2ff83f5ac491665b3cab652889082d7e3c
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\objects\fe\c1e9e61cc908996e6f9181a45be5540b76e532
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\refs\heads
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\refs\tags
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.git\refs\heads\master
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.vs\ConsoleApp1
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.vs\ConsoleApp1\v16
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\.vs\ConsoleApp1\v16\.suo
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\ConsoleApp1\App.config
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\ConsoleApp1\bin
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\ConsoleApp1\Lesson2 Task1.csproj
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\ConsoleApp1\obj
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\ConsoleApp1\Program.cs
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\ConsoleApp1\Properties
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.FileListAbsolute.txt
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\TempPE
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\ConsoleApp1\Properties\AssemblyInfo.cs
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task2\App.config
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task2\bin
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task2\Lesson2 Task2.csproj
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task2\obj
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task2\Program.cs
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task2\Properties
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task2\bin\Debug
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task2\bin\Release
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task2\bin\Debug\Lesson2 Task2.exe
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task2\bin\Debug\Lesson2 Task2.exe.config
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task2\bin\Debug\Lesson2 Task2.pdb
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task2\obj\Debug
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task2\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task2\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task2\obj\Debug\Lesson2 Task2.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task2\obj\Debug\Lesson2 Task2.csproj.FileListAbsolute.txt
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task2\obj\Debug\Lesson2 Task2.csprojAssemblyReference.cache
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task2\obj\Debug\Lesson2 Task2.exe
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task2\obj\Debug\Lesson2 Task2.pdb
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task2\obj\Debug\TempPE
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task2\Properties\AssemblyInfo.cs
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task3\App.config
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task3\bin
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task3\Lesson2 Task3.csproj
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task3\obj
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task3\Program.cs
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task3\Properties
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task3\bin\Debug
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task3\bin\Release
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task3\obj\Debug
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task3\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task3\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task3\obj\Debug\TempPE
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task3\Properties\AssemblyInfo.cs
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task4\App.config
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task4\bin
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task4\Lesson2 Task4.csproj
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task4\obj
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task4\Program.cs
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task4\Properties
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task4\bin\Debug
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task4\bin\Release
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task4\obj\Debug
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task4\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task4\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task4\obj\Debug\TempPE
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task4\Properties\AssemblyInfo.cs
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task5\App.config
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task5\bin
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task5\Lesson2 Task5.csproj
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task5\obj
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task5\Program.cs
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task5\Properties
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task5\bin\Debug
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task5\bin\Release
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task5\bin\Debug\Lesson2 Task5.exe
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task5\bin\Debug\Lesson2 Task5.exe.config
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task5\bin\Debug\Lesson2 Task5.pdb
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task5\obj\Debug
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task5\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task5\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task5\obj\Debug\Lesson2 Task5.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task5\obj\Debug\Lesson2 Task5.csproj.FileListAbsolute.txt
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task5\obj\Debug\Lesson2 Task5.csprojAssemblyReference.cache
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task5\obj\Debug\Lesson2 Task5.exe
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task5\obj\Debug\Lesson2 Task5.pdb
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task5\obj\Debug\TempPE
+C:\Users\Desyatov_D\source\repos\ConsoleApp1\Lesson2 Task5\Properties\AssemblyInfo.cs
+C:\Users\Desyatov_D\source\repos\ConsoleApp2\.vs
+C:\Users\Desyatov_D\source\repos\ConsoleApp2\ConsoleApp2
+C:\Users\Desyatov_D\source\repos\ConsoleApp2\ConsoleApp2.sln
+C:\Users\Desyatov_D\source\repos\ConsoleApp2\.vs\ConsoleApp2
+C:\Users\Desyatov_D\source\repos\ConsoleApp2\.vs\ConsoleApp2\v16
+C:\Users\Desyatov_D\source\repos\ConsoleApp2\.vs\ConsoleApp2\v16\.suo
+C:\Users\Desyatov_D\source\repos\ConsoleApp2\ConsoleApp2\App.config
+C:\Users\Desyatov_D\source\repos\ConsoleApp2\ConsoleApp2\bin
+C:\Users\Desyatov_D\source\repos\ConsoleApp2\ConsoleApp2\ConsoleApp2.csproj
+C:\Users\Desyatov_D\source\repos\ConsoleApp2\ConsoleApp2\obj
+C:\Users\Desyatov_D\source\repos\ConsoleApp2\ConsoleApp2\Program.cs
+C:\Users\Desyatov_D\source\repos\ConsoleApp2\ConsoleApp2\Properties
+C:\Users\Desyatov_D\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug
+C:\Users\Desyatov_D\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug
+C:\Users\Desyatov_D\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+C:\Users\Desyatov_D\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+C:\Users\Desyatov_D\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\TempPE
+C:\Users\Desyatov_D\source\repos\ConsoleApp2\ConsoleApp2\Properties\AssemblyInfo.cs
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\.vs
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Class1.cs
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp1
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp2
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp3
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp3.sln
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Lesson3 Task2
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Sea Battle
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\.vs\ConsoleApp3
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\.vs\ConsoleApp3\v16
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\.vs\ConsoleApp3\v16\.suo
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp1\App.config
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp1\bin
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp1\Contacts.csproj
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp1\obj
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp1\Program.cs
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp1\Properties
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp1\bin\Debug
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp1\obj\Debug
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp1\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.FileListAbsolute.txt
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp1\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp1\obj\Debug\TempPE
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp1\Properties\AssemblyInfo.cs
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp2\App.config
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp2\bin
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp2\obj
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp2\Perevorotchik.csproj
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp2\Program.cs
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp2\Properties
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp2\bin\Debug
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp2\obj\Debug
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp2\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.FileListAbsolute.txt
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp2\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp2\obj\Debug\Perevorotchik.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp2\obj\Debug\Perevorotchik.csproj.FileListAbsolute.txt
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp2\obj\Debug\TempPE
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp2\Properties\AssemblyInfo.cs
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp3\App.config
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp3\bin
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp3\Matrix.csproj
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp3\obj
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp3\Program.cs
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp3\Properties
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.FileListAbsolute.txt
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\TempPE
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp3\Properties\AssemblyInfo.cs
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Lesson3 Task2\App.config
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Lesson3 Task2\bin
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Lesson3 Task2\Lesson3 Task2.csproj
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Lesson3 Task2\obj
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Lesson3 Task2\Program.cs
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Lesson3 Task2\Properties
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Lesson3 Task2\bin\Debug
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Lesson3 Task2\bin\Release
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Lesson3 Task2\obj\Debug
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Lesson3 Task2\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Lesson3 Task2\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Lesson3 Task2\obj\Debug\TempPE
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Lesson3 Task2\Properties\AssemblyInfo.cs
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Sea Battle\App.config
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Sea Battle\bin
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Sea Battle\obj
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Sea Battle\Program.cs
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Sea Battle\Properties
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Sea Battle\Sea Battle.csproj
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Sea Battle\bin\Debug
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Sea Battle\bin\Release
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Sea Battle\bin\Debug\Sea Battle.exe
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Sea Battle\bin\Debug\Sea Battle.exe.config
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Sea Battle\bin\Debug\Sea Battle.pdb
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Sea Battle\obj\Debug
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Sea Battle\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Sea Battle\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Sea Battle\obj\Debug\Sea Battle.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Sea Battle\obj\Debug\Sea Battle.csproj.FileListAbsolute.txt
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Sea Battle\obj\Debug\Sea Battle.csprojAssemblyReference.cache
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Sea Battle\obj\Debug\Sea Battle.exe
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Sea Battle\obj\Debug\Sea Battle.pdb
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Sea Battle\obj\Debug\TempPE
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Sea Battle\Properties\AssemblyInfo.cs
+C:\Users\Desyatov_D\source\repos\Contacts\.vs
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts.sln
+C:\Users\Desyatov_D\source\repos\Contacts\.vs\Contacts
+C:\Users\Desyatov_D\source\repos\Contacts\.vs\Contacts\DesignTimeBuild
+C:\Users\Desyatov_D\source\repos\Contacts\.vs\Contacts\v16
+C:\Users\Desyatov_D\source\repos\Contacts\.vs\Contacts\DesignTimeBuild\.dtbcache.v2
+C:\Users\Desyatov_D\source\repos\Contacts\.vs\Contacts\v16\.suo
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\bin
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\Contacts.csproj
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\Contacts.csproj.user
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\Form1.cs
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\Form1.Designer.cs
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\Form1.resx
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\obj
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\Program.cs
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\Properties
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\bin\Debug
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\bin\Debug\netcoreapp3.1
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\bin\Debug\netcoreapp3.1\Contacts.deps.json
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\bin\Debug\netcoreapp3.1\Contacts.dll
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\bin\Debug\netcoreapp3.1\Contacts.exe
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\bin\Debug\netcoreapp3.1\Contacts.pdb
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\bin\Debug\netcoreapp3.1\Contacts.runtimeconfig.dev.json
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\bin\Debug\netcoreapp3.1\Contacts.runtimeconfig.json
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\obj\Contacts.csproj.nuget.dgspec.json
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\obj\Contacts.csproj.nuget.g.props
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\obj\Contacts.csproj.nuget.g.targets
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\obj\Debug
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\obj\project.assets.json
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\obj\project.nuget.cache
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\obj\Debug\netcoreapp3.1
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\obj\Debug\netcoreapp3.1\apphost.exe
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\obj\Debug\netcoreapp3.1\Contacts.AssemblyInfo.cs
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\obj\Debug\netcoreapp3.1\Contacts.AssemblyInfoInputs.cache
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\obj\Debug\netcoreapp3.1\Contacts.assets.cache
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\obj\Debug\netcoreapp3.1\Contacts.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\obj\Debug\netcoreapp3.1\Contacts.csproj.FileListAbsolute.txt
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\obj\Debug\netcoreapp3.1\Contacts.csproj.GenerateResource.cache
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\obj\Debug\netcoreapp3.1\Contacts.csprojAssemblyReference.cache
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\obj\Debug\netcoreapp3.1\Contacts.designer.deps.json
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\obj\Debug\netcoreapp3.1\Contacts.designer.runtimeconfig.json
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\obj\Debug\netcoreapp3.1\Contacts.dll
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\obj\Debug\netcoreapp3.1\Contacts.Form1.resources
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\obj\Debug\netcoreapp3.1\Contacts.genruntimeconfig.cache
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\obj\Debug\netcoreapp3.1\Contacts.pdb
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\obj\Debug\netcoreapp3.1\Contacts.Properties.Resources.resources
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\obj\Debug\netcoreapp3.1\TempPE
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\obj\Debug\netcoreapp3.1\TempPE\Properties.Resources.Designer.cs.dll
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\Properties\Resources.Designer.cs
+C:\Users\Desyatov_D\source\repos\Contacts\Contacts\Properties\Resources.resx
+C:\Users\Desyatov_D\source\repos\Contacts1\.vs
+C:\Users\Desyatov_D\source\repos\Contacts1\Contacts1
+C:\Users\Desyatov_D\source\repos\Contacts1\Contacts1.sln
+C:\Users\Desyatov_D\source\repos\Contacts1\.vs\Contacts1
+C:\Users\Desyatov_D\source\repos\Contacts1\.vs\Contacts1\v16
+C:\Users\Desyatov_D\source\repos\Contacts1\.vs\Contacts1\v16\.suo
+C:\Users\Desyatov_D\source\repos\Contacts1\Contacts1\App.config
+C:\Users\Desyatov_D\source\repos\Contacts1\Contacts1\bin
+C:\Users\Desyatov_D\source\repos\Contacts1\Contacts1\Class1.cs
+C:\Users\Desyatov_D\source\repos\Contacts1\Contacts1\Contacts1.csproj
+C:\Users\Desyatov_D\source\repos\Contacts1\Contacts1\Form1.cs
+C:\Users\Desyatov_D\source\repos\Contacts1\Contacts1\Form1.Designer.cs
+C:\Users\Desyatov_D\source\repos\Contacts1\Contacts1\Form1.resx
+C:\Users\Desyatov_D\source\repos\Contacts1\Contacts1\obj
+C:\Users\Desyatov_D\source\repos\Contacts1\Contacts1\Program.cs
+C:\Users\Desyatov_D\source\repos\Contacts1\Contacts1\Properties
+C:\Users\Desyatov_D\source\repos\Contacts1\Contacts1\bin\Debug
+C:\Users\Desyatov_D\source\repos\Contacts1\Contacts1\obj\Debug
+C:\Users\Desyatov_D\source\repos\Contacts1\Contacts1\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+C:\Users\Desyatov_D\source\repos\Contacts1\Contacts1\obj\Debug\Contacts1.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\Contacts1\Contacts1\obj\Debug\Contacts1.csproj.FileListAbsolute.txt
+C:\Users\Desyatov_D\source\repos\Contacts1\Contacts1\obj\Debug\Contacts1.csproj.GenerateResource.cache
+C:\Users\Desyatov_D\source\repos\Contacts1\Contacts1\obj\Debug\Contacts1.csprojAssemblyReference.cache
+C:\Users\Desyatov_D\source\repos\Contacts1\Contacts1\obj\Debug\Contacts1.Form1.resources
+C:\Users\Desyatov_D\source\repos\Contacts1\Contacts1\obj\Debug\Contacts1.Properties.Resources.resources
+C:\Users\Desyatov_D\source\repos\Contacts1\Contacts1\obj\Debug\DesignTimeResolveAssemblyReferences.cache
+C:\Users\Desyatov_D\source\repos\Contacts1\Contacts1\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+C:\Users\Desyatov_D\source\repos\Contacts1\Contacts1\obj\Debug\TempPE
+C:\Users\Desyatov_D\source\repos\Contacts1\Contacts1\Properties\AssemblyInfo.cs
+C:\Users\Desyatov_D\source\repos\Contacts1\Contacts1\Properties\Resources.Designer.cs
+C:\Users\Desyatov_D\source\repos\Contacts1\Contacts1\Properties\Resources.resx
+C:\Users\Desyatov_D\source\repos\Contacts1\Contacts1\Properties\Settings.Designer.cs
+C:\Users\Desyatov_D\source\repos\Contacts1\Contacts1\Properties\Settings.settings
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.vs
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\config
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\description
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\HEAD
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\hooks
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\index
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\info
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\logs
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\objects
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\packed-refs
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\refs
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\hooks\applypatch-msg.sample
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\hooks\commit-msg.sample
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\hooks\fsmonitor-watchman.sample
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\hooks\post-update.sample
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\hooks\pre-applypatch.sample
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\hooks\pre-commit.sample
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\hooks\pre-merge-commit.sample
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\hooks\pre-push.sample
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\hooks\pre-rebase.sample
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\hooks\pre-receive.sample
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\hooks\prepare-commit-msg.sample
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\hooks\update.sample
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\info\exclude
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\logs\HEAD
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\logs\refs
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\logs\refs\heads
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\logs\refs\remotes
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\logs\refs\heads\main
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\logs\refs\remotes\origin
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\logs\refs\remotes\origin\HEAD
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\objects\info
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\objects\pack
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\objects\pack\pack-f9d482021831132e97544da205ae3ac57c15e3d5.idx
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\objects\pack\pack-f9d482021831132e97544da205ae3ac57c15e3d5.pack
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\refs\heads
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\refs\remotes
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\refs\tags
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\refs\heads\main
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\refs\remotes\origin
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.git\refs\remotes\origin\HEAD
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.vs\Acquaitance-with-Csh1111111
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.vs\slnx.sqlite
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.vs\VSWorkspaceState.json
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.vs\Acquaitance-with-Csh1111111\v16
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\.vs\Acquaitance-with-Csh1111111\v16\.suo
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\.vs
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\ConsoleApp1
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\ConsoleApp1.sln
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task2
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task3
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task4
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task5
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\.vs\ConsoleApp1
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\.vs\ConsoleApp1\v16
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\.vs\ConsoleApp1\v16\.suo
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\ConsoleApp1\App.config
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\ConsoleApp1\bin
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\ConsoleApp1\Lesson2 Task1.csproj
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\ConsoleApp1\obj
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\ConsoleApp1\Program.cs
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\ConsoleApp1\Properties
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\ConsoleApp1\bin\Debug
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\ConsoleApp1\bin\Release
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\ConsoleApp1\obj\Debug
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\ConsoleApp1\obj\Release
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\ConsoleApp1\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.FileListAbsolute.txt
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\ConsoleApp1\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\ConsoleApp1\obj\Debug\Lesson2 Task1.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\ConsoleApp1\obj\Debug\Lesson2 Task1.csproj.FileListAbsolute.txt
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\ConsoleApp1\obj\Debug\Lesson2 Task1.csprojAssemblyReference.cache
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\ConsoleApp1\obj\Debug\TempPE
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\ConsoleApp1\obj\Release\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\ConsoleApp1\Properties\AssemblyInfo.cs
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task2\App.config
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task2\bin
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task2\Lesson2 Task2.csproj
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task2\obj
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task2\Program.cs
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task2\Properties
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task2\bin\Debug
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task2\bin\Release
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task2\bin\Debug\Lesson2 Task2.exe
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task2\bin\Debug\Lesson2 Task2.exe.config
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task2\bin\Debug\Lesson2 Task2.pdb
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task2\obj\Debug
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task2\obj\Release
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task2\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task2\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task2\obj\Debug\Lesson2 Task2.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task2\obj\Debug\Lesson2 Task2.csproj.FileListAbsolute.txt
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task2\obj\Debug\Lesson2 Task2.csprojAssemblyReference.cache
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task2\obj\Debug\Lesson2 Task2.exe
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task2\obj\Debug\Lesson2 Task2.pdb
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task2\obj\Debug\TempPE
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task2\obj\Release\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task2\Properties\AssemblyInfo.cs
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task3\App.config
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task3\bin
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task3\Lesson2 Task3.csproj
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task3\obj
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task3\Program.cs
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task3\Properties
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task3\bin\Debug
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task3\bin\Release
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task3\bin\Debug\Lesson2 Task3.exe
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task3\bin\Debug\Lesson2 Task3.exe.config
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task3\bin\Debug\Lesson2 Task3.pdb
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task3\obj\Debug
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task3\obj\Release
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task3\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task3\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task3\obj\Debug\Lesson2 Task3.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task3\obj\Debug\Lesson2 Task3.csproj.FileListAbsolute.txt
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task3\obj\Debug\Lesson2 Task3.csprojAssemblyReference.cache
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task3\obj\Debug\Lesson2 Task3.exe
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task3\obj\Debug\Lesson2 Task3.pdb
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task3\obj\Debug\TempPE
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task3\obj\Release\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task3\Properties\AssemblyInfo.cs
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task4\App.config
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task4\bin
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task4\Lesson2 Task4.csproj
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task4\obj
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task4\Program.cs
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task4\Properties
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task4\bin\Debug
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task4\bin\Release
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task4\bin\Debug\Lesson2 Task4.exe
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task4\bin\Debug\Lesson2 Task4.exe.config
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task4\bin\Debug\Lesson2 Task4.pdb
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task4\obj\Debug
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task4\obj\Release
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task4\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task4\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task4\obj\Debug\Lesson2 Task4.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task4\obj\Debug\Lesson2 Task4.csproj.FileListAbsolute.txt
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task4\obj\Debug\Lesson2 Task4.csprojAssemblyReference.cache
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task4\obj\Debug\Lesson2 Task4.exe
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task4\obj\Debug\Lesson2 Task4.pdb
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task4\obj\Debug\TempPE
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task4\obj\Release\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task4\Properties\AssemblyInfo.cs
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task5\App.config
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task5\bin
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task5\Lesson2 Task5.csproj
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task5\obj
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task5\Program.cs
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task5\Properties
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task5\bin\Debug
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task5\bin\Release
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task5\bin\Debug\Lesson2 Task5.exe
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task5\bin\Debug\Lesson2 Task5.exe.config
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task5\bin\Debug\Lesson2 Task5.pdb
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task5\obj\Debug
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task5\obj\Release
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task5\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task5\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task5\obj\Debug\Lesson2 Task5.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task5\obj\Debug\Lesson2 Task5.csproj.FileListAbsolute.txt
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task5\obj\Debug\Lesson2 Task5.csprojAssemblyReference.cache
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task5\obj\Debug\Lesson2 Task5.exe
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task5\obj\Debug\Lesson2 Task5.pdb
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task5\obj\Debug\TempPE
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task5\obj\Release\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+C:\Users\Desyatov_D\source\repos\Dmitry10D\Acquaitance-with-Csh1111111\ConsoleApp1\Lesson2 Task5\Properties\AssemblyInfo.cs
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\.vs
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Fibonacci's numbers
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Get Full Name
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Lesson4 Tasks.sln
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Months
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Numbers sum
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\.vs\Lesson4 Tasks
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\.vs\Lesson4 Tasks\v16
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\.vs\Lesson4 Tasks\v16\.suo
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Fibonacci's numbers\App.config
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Fibonacci's numbers\bin
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Fibonacci's numbers\Fibonacci's numbers.csproj
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Fibonacci's numbers\obj
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Fibonacci's numbers\Program.cs
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Fibonacci's numbers\Properties
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Fibonacci's numbers\bin\Debug
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Fibonacci's numbers\bin\Release
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Fibonacci's numbers\bin\Debug\Fibonacci's numbers.exe
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Fibonacci's numbers\bin\Debug\Fibonacci's numbers.exe.config
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Fibonacci's numbers\bin\Debug\Fibonacci's numbers.pdb
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Fibonacci's numbers\obj\Debug
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Fibonacci's numbers\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Fibonacci's numbers\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Fibonacci's numbers\obj\Debug\Fibonacci's numbers.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Fibonacci's numbers\obj\Debug\Fibonacci's numbers.csproj.FileListAbsolute.txt
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Fibonacci's numbers\obj\Debug\Fibonacci's numbers.csprojAssemblyReference.cache
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Fibonacci's numbers\obj\Debug\Fibonacci's numbers.exe
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Fibonacci's numbers\obj\Debug\Fibonacci's numbers.pdb
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Fibonacci's numbers\obj\Debug\TempPE
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Fibonacci's numbers\Properties\AssemblyInfo.cs
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Get Full Name\App.config
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Get Full Name\bin
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Get Full Name\Get Full Name.csproj
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Get Full Name\obj
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Get Full Name\Program.cs
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Get Full Name\Properties
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Get Full Name\bin\Debug
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Get Full Name\bin\Release
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Get Full Name\bin\Debug\Get Full Name.exe
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Get Full Name\bin\Debug\Get Full Name.exe.config
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Get Full Name\bin\Debug\Get Full Name.pdb
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Get Full Name\obj\Debug
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Get Full Name\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Get Full Name\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Get Full Name\obj\Debug\Get Full Name.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Get Full Name\obj\Debug\Get Full Name.csproj.FileListAbsolute.txt
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Get Full Name\obj\Debug\Get Full Name.csprojAssemblyReference.cache
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Get Full Name\obj\Debug\Get Full Name.exe
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Get Full Name\obj\Debug\Get Full Name.pdb
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Get Full Name\obj\Debug\TempPE
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Get Full Name\Properties\AssemblyInfo.cs
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Months\App.config
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Months\bin
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Months\Months.csproj
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Months\obj
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Months\Program.cs
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Months\Properties
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Months\bin\Debug
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Months\bin\Debug\Months.exe
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Months\bin\Debug\Months.exe.config
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Months\bin\Debug\Months.pdb
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Months\obj\Debug
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Months\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Months\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Months\obj\Debug\Months.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Months\obj\Debug\Months.csproj.FileListAbsolute.txt
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Months\obj\Debug\Months.csprojAssemblyReference.cache
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Months\obj\Debug\Months.exe
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Months\obj\Debug\Months.pdb
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Months\obj\Debug\TempPE
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Months\Properties\AssemblyInfo.cs
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Numbers sum\App.config
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Numbers sum\bin
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Numbers sum\Numbers sum.csproj
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Numbers sum\obj
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Numbers sum\Program.cs
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Numbers sum\Properties
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Numbers sum\bin\Debug
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Numbers sum\bin\Release
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Numbers sum\bin\Debug\Numbers sum.exe
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Numbers sum\bin\Debug\Numbers sum.exe.config
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Numbers sum\bin\Debug\Numbers sum.pdb
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Numbers sum\obj\Debug
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Numbers sum\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Numbers sum\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Numbers sum\obj\Debug\Numbers sum.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Numbers sum\obj\Debug\Numbers sum.csproj.FileListAbsolute.txt
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Numbers sum\obj\Debug\Numbers sum.csprojAssemblyReference.cache
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Numbers sum\obj\Debug\Numbers sum.exe
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Numbers sum\obj\Debug\Numbers sum.pdb
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Numbers sum\obj\Debug\TempPE
+C:\Users\Desyatov_D\source\repos\Lesson4 Tasks\Numbers sum\Properties\AssemblyInfo.cs
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\.vs
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\AppendingCurrentTime
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\DirectoryTree
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\Lesson5Task1
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\Lesson5Tasks.sln
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\NumbersToBinary
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\.vs\Lesson5Tasks
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\.vs\Lesson5Tasks\v16
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\.vs\Lesson5Tasks\v16\.suo
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\AppendingCurrentTime\App.config
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\AppendingCurrentTime\AppendingCurrentTime.csproj
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\AppendingCurrentTime\bin
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\AppendingCurrentTime\obj
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\AppendingCurrentTime\Program.cs
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\AppendingCurrentTime\Properties
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\AppendingCurrentTime\bin\Debug
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\AppendingCurrentTime\bin\Debug\AppendingCurrentTime.exe
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\AppendingCurrentTime\bin\Debug\AppendingCurrentTime.exe.config
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\AppendingCurrentTime\bin\Debug\AppendingCurrentTime.pdb
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\AppendingCurrentTime\bin\Debug\startup.txt
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\AppendingCurrentTime\obj\Debug
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\AppendingCurrentTime\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\AppendingCurrentTime\obj\Debug\AppendingCurrentTime.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\AppendingCurrentTime\obj\Debug\AppendingCurrentTime.csproj.FileListAbsolute.txt
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\AppendingCurrentTime\obj\Debug\AppendingCurrentTime.csprojAssemblyReference.cache
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\AppendingCurrentTime\obj\Debug\AppendingCurrentTime.exe
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\AppendingCurrentTime\obj\Debug\AppendingCurrentTime.pdb
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\AppendingCurrentTime\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\AppendingCurrentTime\obj\Debug\TempPE
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\AppendingCurrentTime\Properties\AssemblyInfo.cs
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\DirectoryTree\App.config
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\DirectoryTree\bin
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\DirectoryTree\DirectoryTree.csproj
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\DirectoryTree\obj
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\DirectoryTree\Program.cs
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\DirectoryTree\Properties
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\DirectoryTree\bin\Debug
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\DirectoryTree\bin\Debug\DirectoryTree.exe
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\DirectoryTree\bin\Debug\DirectoryTree.exe.config
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\DirectoryTree\bin\Debug\DirectoryTree.pdb
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\DirectoryTree\obj\Debug
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\DirectoryTree\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\DirectoryTree\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\DirectoryTree\obj\Debug\DirectoryTree.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\DirectoryTree\obj\Debug\DirectoryTree.csproj.FileListAbsolute.txt
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\DirectoryTree\obj\Debug\DirectoryTree.csprojAssemblyReference.cache
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\DirectoryTree\obj\Debug\DirectoryTree.exe
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\DirectoryTree\obj\Debug\DirectoryTree.pdb
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\DirectoryTree\obj\Debug\TempPE
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\DirectoryTree\Properties\AssemblyInfo.cs
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\Lesson5Task1\App.config
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\Lesson5Task1\bin
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\Lesson5Task1\Lesson5Task1.csproj
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\Lesson5Task1\obj
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\Lesson5Task1\Program.cs
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\Lesson5Task1\Properties
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\Lesson5Task1\bin\Debug
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\Lesson5Task1\bin\Debug\Lesson5Task1.exe
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\Lesson5Task1\bin\Debug\Lesson5Task1.exe.config
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\Lesson5Task1\bin\Debug\Lesson5Task1.pdb
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\Lesson5Task1\bin\Debug\text data.txt
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\Lesson5Task1\obj\Debug
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\Lesson5Task1\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\Lesson5Task1\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\Lesson5Task1\obj\Debug\Lesson5Task1.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\Lesson5Task1\obj\Debug\Lesson5Task1.csproj.FileListAbsolute.txt
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\Lesson5Task1\obj\Debug\Lesson5Task1.csprojAssemblyReference.cache
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\Lesson5Task1\obj\Debug\Lesson5Task1.exe
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\Lesson5Task1\obj\Debug\Lesson5Task1.pdb
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\Lesson5Task1\obj\Debug\TempPE
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\Lesson5Task1\Properties\AssemblyInfo.cs
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\NumbersToBinary\App.config
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\NumbersToBinary\bin
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\NumbersToBinary\NumbersToBinary.csproj
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\NumbersToBinary\obj
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\NumbersToBinary\Program.cs
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\NumbersToBinary\Properties
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\NumbersToBinary\bin\Debug
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\NumbersToBinary\bin\Debug\NumbersToBinary.exe
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\NumbersToBinary\bin\Debug\NumbersToBinary.exe.config
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\NumbersToBinary\bin\Debug\NumbersToBinary.pdb
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\NumbersToBinary\bin\Debug\setofbytes.bin
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\NumbersToBinary\obj\Debug
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\NumbersToBinary\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\NumbersToBinary\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\NumbersToBinary\obj\Debug\NumbersToBinary.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\NumbersToBinary\obj\Debug\NumbersToBinary.csproj.FileListAbsolute.txt
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\NumbersToBinary\obj\Debug\NumbersToBinary.csprojAssemblyReference.cache
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\NumbersToBinary\obj\Debug\NumbersToBinary.exe
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\NumbersToBinary\obj\Debug\NumbersToBinary.pdb
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\NumbersToBinary\obj\Debug\TempPE
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\NumbersToBinary\Properties\AssemblyInfo.cs
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\.vs
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\WindowsFormsApp1
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\WindowsFormsApp1.sln
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\.vs\WindowsFormsApp1
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\.vs\WindowsFormsApp1\v16
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\.vs\WindowsFormsApp1\v16\.suo
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\WindowsFormsApp1\App.config
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.Designer.cs
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\WindowsFormsApp1\Program.cs
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\WindowsFormsApp1\Properties
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1.csproj
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DesignTimeResolveAssemblyReferences.cache
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TempPE
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.FileListAbsolute.txt
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\WindowsFormsApp1\Properties\AssemblyInfo.cs
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\WindowsFormsApp1\Properties\Resources.Designer.cs
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\WindowsFormsApp1\Properties\Resources.resx
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\WindowsFormsApp1\Properties\Settings.Designer.cs
+C:\Users\Desyatov_D\source\repos\WindowsFormsApp1\WindowsFormsApp1\Properties\Settings.settings
