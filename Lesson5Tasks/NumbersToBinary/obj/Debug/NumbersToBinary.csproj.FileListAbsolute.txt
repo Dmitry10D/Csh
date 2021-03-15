@@ -1,0 +1,7 @@
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\NumbersToBinary\bin\Debug\NumbersToBinary.exe.config
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\NumbersToBinary\bin\Debug\NumbersToBinary.exe
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\NumbersToBinary\bin\Debug\NumbersToBinary.pdb
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\NumbersToBinary\obj\Debug\NumbersToBinary.csprojAssemblyReference.cache
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\NumbersToBinary\obj\Debug\NumbersToBinary.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\NumbersToBinary\obj\Debug\NumbersToBinary.exe
+C:\Users\Desyatov_D\source\repos\Lesson5Tasks\NumbersToBinary\obj\Debug\NumbersToBinary.pdb
